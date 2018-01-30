@@ -61,6 +61,15 @@ Unicode.)
 
 - [ ] describe practical applications where BCD is use
 
+#### Class Notes
+** What is a number system? **
+
+It is a system for representing numbers using digits or symbols and all the operations and properties associated with the system.
+
+** Why is the binary number system important for computer science?
+
+Because internally computers represents data as bits (0 or 1).
+
 ** Assignment: Due 13 February 2018 **
 Do Assignment 1 Part 1 from your study guide.
 
