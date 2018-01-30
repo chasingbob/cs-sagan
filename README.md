@@ -40,3 +40,28 @@ print(y, y + 1, y * 2, y ** 2) # Prints "2.5 3.5 5.0 6.25"
 Source: [Stanford cs231](https://cs231n.github.io/python-numpy-tutorial/)
 
 ## Theory work
+
+### Section 1: Theory Fundamentals
+
+** Week 1 ** 
+
+- [ ] show understanding of the basis of different number systems and use the binary,
+    denary and hexadecimal number system
+
+- [ ] convert a number from one number system to another
+
+- [ ] express a positive or negative integer in 2’s complement form
+
+- [ ] show understanding of, and be able to represent, character data in its internal
+binary form depending on the character set used (Candidates will not be expected to
+memorise any particular character codes but must be familiar with ASCII and
+Unicode.)
+
+- [ ] express a denary number in Binary Coded Decimal (BCD) and vice versa
+
+- [ ] describe practical applications where BCD is use
+
+** Assignment: Due 13 February 2018 **
+Do Assignment 1 Part 1 from your study guide.
+
+
